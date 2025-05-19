@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ```
-[!] Media Sosial Me 🌍🌏
+[!] Welcome To My Page 😎🤞
 [+] Developer : RIZAVOS_CORP [ SLEPER ]
 [+] Team Code : SLEPER
 [+] YouTube   : coming soon
@@ -19,4 +19,4 @@
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/capsAirdrop)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rdzdrmwn)
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628811744572?text=assalamualaikum%20bang)
-[![Chat](https://img.shields.io/badge/CHAT-red?style=for-the-badge)](#)
+[![Chat](https://img.shields.io/badge/CHAT-red?style=for-the-badge)](https://wa.me/628811744572?text=assalamualaikum%20bang)
